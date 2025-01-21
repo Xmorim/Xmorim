@@ -20,6 +20,6 @@ UNICEUB student, taking my first graduation in computer science 💻🇧🇷
 <details>
   <summary>Github Stats 🥷</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Sr-Monteiro&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Monteiro&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=SrMorim&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrMorim&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
 </details>

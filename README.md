@@ -18,8 +18,8 @@ UNICEUB student, taking my first graduation in computer science 💻🇧🇷
 <a href="https://www.linkedin.com/in/felipe-monteiro-4581ab304/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <details>
-  <summary>Github Stats 🥷</summary>
+  <summary>Github Stats 📈</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=SrMorim&theme=dark&count_private=false&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrMorim&layout=compact&theme=dark&count_private=false&hide_border=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrMorim&layout=compact&theme=dark&count_private=false&hide_border=true&line_height=1000)</a>
 </details>

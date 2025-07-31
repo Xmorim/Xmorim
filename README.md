@@ -11,7 +11,7 @@ UNICEUB student, taking my first graduation in computer science 💻🇧🇷
 
 **Skills with:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,linux,kali,bash,aws,kubernetes,terraform,grafana,mongo,rabbitmq,firebase,figma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,linux,kali,bash,aws,kubernetes,terraform,grafana,mongo,rabbitmq,firebase,figma,azure&perline=7)](https://skillicons.dev)
 
 ##
 
